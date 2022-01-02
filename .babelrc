@@ -1,0 +1,14 @@
+{
+  "presets": [
+    "next/babel"
+  ],
+  "plugins": [
+    [
+      "effector/babel-plugin",
+      {
+        "reactSsr": true
+      }
+    ],
+    ["effector-logger/babel-plugin"]
+  ]
+}

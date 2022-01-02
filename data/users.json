@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "icon": "👩🏼"
+  },
+  {
+    "id": 2,
+    "name": "Caterpillar",
+    "icon": "🐛"
+  },
+  {
+    "id": 3,
+    "name": "Cheshire Cat",
+    "icon": "😼"
+  },
+  {
+    "id": 4,
+    "name": "Queen",
+    "icon": "👸🏻"
+  },
+  {
+    "id": 5,
+    "name": "King",
+    "icon": "🤴🏽"
+  }
+]
